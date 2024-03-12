@@ -1,7 +1,7 @@
 {
   "name": "TEA-testnetls1",
   "version": "1.0.0",
-  "description": "This is a description of my package",
+  "description": "new pj",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
